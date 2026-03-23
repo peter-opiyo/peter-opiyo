@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi, I'm Peter Opiyo.
 
-<!--
-**peter-opiyo/peter-opiyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Digital Marketing & Data Analytics Specialist
+I turn data into actionable business insights
+Passionate about growth, analytics, and performance marketing
 
-Here are some ideas to get you started:
+Skills & Tools:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Digital Marketing:
+SEO (Search Engine Optimization)
+Social Media Marketing (Meta Ads)
+Email Marketing
+
+Data Analytics:
+SQL
+Excel
+Python (Pandas)
+
+Data Visualization:
+Tableau
+Power BI
+
+Featured Projects:
+Coming soon… (currently building my portfolio)
+
+Connect With Me:
+LinkedIn: https://www.linkedin.com/in/peter-o-opiyo/
+Email: peteropiyo8@gmail.com
