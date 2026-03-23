@@ -2,7 +2,7 @@ Hi, I'm Peter Opiyo.
 
 Digital Marketing & Data Analytics Specialist.
 I turn data into actionable business insights.
-Passionate about growth, analytics, and performance marketing.
+Passionate about growth, analytics and performance marketing.
 
 Skills & Tools:
 
