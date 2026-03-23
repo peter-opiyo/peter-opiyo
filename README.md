@@ -1,23 +1,23 @@
 Hi, I'm Peter Opiyo.
 
-Digital Marketing & Data Analytics Specialist
-I turn data into actionable business insights
-Passionate about growth, analytics, and performance marketing
+Digital Marketing & Data Analytics Specialist.
+I turn data into actionable business insights.
+Passionate about growth, analytics, and performance marketing.
 
 Skills & Tools:
 
 Digital Marketing:
-SEO (Search Engine Optimization)
-Social Media Marketing (Meta Ads)
-Email Marketing
+SEO (Search Engine Optimization),
+Social Media Marketing (Meta Ads) &
+Email Marketing.
 
 Data Analytics:
-SQL
-Excel
-Python (Pandas)
+SQL,
+Excel &
+Python (Pandas).
 
 Data Visualization:
-Tableau
+Tableau &
 Power BI
 
 Featured Projects:
